@@ -10,4 +10,8 @@
 
 @interface PSViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UIImageView *backgroundPic;
+@property (strong, nonatomic) IBOutlet UILabel *label;
+
+
 @end

@@ -112,8 +112,6 @@
 		CDC96E7518D12A8600304607 /* About Me */ = {
 			isa = PBXGroup;
 			children = (
-				CDC96E7E18D12A8700304607 /* PSAppDelegate.h */,
-				CDC96E7F18D12A8700304607 /* PSAppDelegate.m */,
 				CDC96E8118D12A8700304607 /* Main.storyboard */,
 				CDC96E8418D12A8700304607 /* PSViewController.h */,
 				CDC96E8518D12A8700304607 /* PSViewController.m */,
@@ -126,6 +124,8 @@
 		CDC96E7618D12A8700304607 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CDC96E7E18D12A8700304607 /* PSAppDelegate.h */,
+				CDC96E7F18D12A8700304607 /* PSAppDelegate.m */,
 				CDC96E7718D12A8700304607 /* About Me-Info.plist */,
 				CDC96E7818D12A8700304607 /* InfoPlist.strings */,
 				CDC96E7B18D12A8700304607 /* main.m */,
@@ -461,6 +461,7 @@
 				CDC96EA018D12A8700304607 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CDC96EA118D12A8700304607 /* Build configuration list for PBXNativeTarget "About MeTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				CDC96EA318D12A8700304607 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
